@@ -5,8 +5,8 @@
 Include the following in your submission
 
 ```
-Link to repo:
-Link to deployed app:
+Link to repo: https://github.com/neilburd/GA-project-1-simon
+Link to deployed app:https://neilburd.github.io/GA-project-1-simon/
 
 Things you'd like specific feedback on:
 ```
