@@ -5,8 +5,8 @@
 Include the following in your submission
 
 ```
-Link to repo:
-Link to deployed app:
+Link to repo: https://github.com/patrickthesailorman/Flash
+Link to deployed app:  https://patrickthesailorman.github.io/Flash/
 
 Things you'd like specific feedback on:
 ```
