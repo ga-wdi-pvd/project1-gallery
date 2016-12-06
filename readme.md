@@ -6,8 +6,9 @@ Include the following in your submission
 
 ```
 Link to repo:
+https://github.com/mconnors333/trivia
 Link to deployed app:
-
+http://matt-connors.com/trivia/
 Things you'd like specific feedback on:
 ```
 
