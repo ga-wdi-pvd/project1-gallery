@@ -5,8 +5,8 @@
 Include the following in your submission
 
 ```
-Link to repo:
-Link to deployed app:
+Link to repo: https://github.com/mwb86/towers-of-hanoi
+Link to deployed app: https://mwb86.github.io/towers-of-hanoi/#
 
 Things you'd like specific feedback on:
 ```
